@@ -1,0 +1,13 @@
+db:
+  host: "127.0.0.1"
+  port: 3306
+  user: "root"
+  password: ""
+  db: "falcon"
+redis:
+  addr: "localhost:6379"
+  password: ""
+  db: 0
+es:
+  host: "localhost"
+  port: 9200
